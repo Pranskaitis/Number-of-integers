@@ -2,6 +2,6 @@
 
 Language: C
 
-Input: any number of two-digit numbers
+Input: any number of two-digit integers
 
 Output: how many times each number occurs in the given input
